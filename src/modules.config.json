@@ -1,0 +1,11 @@
+{
+  "top_left": ["Greeting"],
+  "top_center": ["HelloWorld"],
+  "top_right": ["HelloWorld"],
+  "main_left": ["HelloWorld"],
+  "main_center": ["HelloWorld"],
+  "main_right": ["GoogleCalendar"],
+  "bottom_left": ["TodoList"],
+  "bottom_center": ["News"],
+  "bottom_right": ["HelloWorld"]
+}
